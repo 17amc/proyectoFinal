@@ -1,5 +1,7 @@
 Miembros del Proyecto
 
+Roles
+
 ● Front-End: Encargado del diseño de la aplicación, a cargo de Mateo
 Espinosa Restrepo.
 
