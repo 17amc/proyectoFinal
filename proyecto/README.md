@@ -38,3 +38,4 @@ Objetivo general: Fortalecer la capacidad de respuesta ante situaciones de emerg
 una solución tecnológica integral que mejore la comunicación, coordinación y eficiencia en 
 la gestión de emergencias, contribuyendo así a salvar vidas y reducir el impacto negativo de 
 situaciones críticas en la sociedad.
+REvisado. Muy buen trabajo: Jeffrey
